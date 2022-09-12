@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include <unistd.h>
 
 /**
  * main - Prints the standard error sandwiched around the standard outpu/t
