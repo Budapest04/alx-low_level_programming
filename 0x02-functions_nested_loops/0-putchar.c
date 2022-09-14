@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - prints the word 
+ * main - prints the word
  *
  * Return: 0 on success execution.
  */
