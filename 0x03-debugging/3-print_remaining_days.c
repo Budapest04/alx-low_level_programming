@@ -32,3 +32,4 @@ day - 31, year);
 			printf("Remaining days: %d\n", 365 - day);
 		}
 	}
+}
