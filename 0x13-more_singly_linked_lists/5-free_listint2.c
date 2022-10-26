@@ -18,4 +18,4 @@ temp = *head;
 free(temp);
 }
 head = NULL;
-}
+}=
